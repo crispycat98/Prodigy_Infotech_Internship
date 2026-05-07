@@ -1,6 +1,6 @@
 # Prodigy InfoTech — Cybersecurity Internship Tasks
 
-This repo has all the work I did during my cybersecurity internship at Prodigy InfoTech. Each task is in its own folder with a standalone Python script. The focus across all five was practical security concepts — encryption, password analysis, input capture, and network traffic inspection.
+This repo has all the work I did during my cybersecurity internship at Prodigy InfoTech. Each task is in its own folder with a standalone Python script. The focus across all five was practical security concepts such as encryption, password analysis, input capture, and network traffic inspection.
 
 ---
 
@@ -20,7 +20,7 @@ This repo has all the work I did during my cybersecurity internship at Prodigy I
 
 ### Task 01 — Caesar Cipher
 
-A classic substitution cipher — shifts each letter in a message by a given number. Supports both encryption and decryption, handles upper and lower case separately, and leaves numbers and symbols untouched.
+A classic substitution cipher which shifts each letter in a message by a given number. Supports both encryption and decryption, handles upper and lower case separately, and leaves numbers and symbols untouched.
 
 **Run it:**
 ```bash
@@ -47,7 +47,7 @@ python image_encrypt.py
 
 ### Task 03 — Password Complexity Checker
 
-Takes a password as input (hidden from terminal) and rates its strength across six criteria — length, uppercase, lowercase, digits, special characters, and a bonus for passwords over 16 characters. Prints a strength label and tells you exactly what's missing.
+Takes a password as input (hidden from terminal) and rates its strength across six criteria i.e. length, uppercase, lowercase, digits, special characters, and a bonus for passwords over 16 characters. Prints a strength label and tells you exactly what's missing.
 
 **Run it:**
 ```bash
@@ -92,7 +92,7 @@ Python 3.8 or above should work fine across all five scripts.
 
 ## Ethical Use
 
-Task 04 deals with keystroke capture — something that can cause real harm if misused. Every script that touches this territory has a confirmation prompt built in and won't proceed without it. These were built purely for learning how such tools work under the hood, not for anything outside that scope.
+Task 04 deals with keystroke capture is something that can cause real harm if misused. Every script that touches this territory has a confirmation prompt built in and won't proceed without it. These were built purely for learning how such tools work under the hood, not for anything outside that scope.
 
 ---
 
