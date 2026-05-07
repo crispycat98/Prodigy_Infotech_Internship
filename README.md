@@ -100,4 +100,4 @@ Task 04 deals with keystroke capture is something that can cause real harm if mi
 
 **Organization:** Prodigy InfoTech  
 **Domain:** Cybersecurity  
-**Duration:** April 2026
+**Duration:** 15th April - 15th May 2026
