@@ -1,4 +1,4 @@
-# Prodigy InfoTech — Cybersecurity Internship Tasks
+# Prodigy InfoTech - My work as a Cybersecurity Intern
 
 This repo has all the work I did during my cybersecurity internship at Prodigy InfoTech. Each task is in its own folder with a standalone Python script. The focus across all five was practical security concepts such as encryption, password analysis, input capture, and network traffic inspection.
 
