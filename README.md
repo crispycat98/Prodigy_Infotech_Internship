@@ -18,7 +18,7 @@ This repo has all the work I did during my cybersecurity internship at Prodigy I
 
 ## Task Breakdown
 
-### Task 01 — Caesar Cipher
+### Task 01-Caesar Cipher
 
 A classic substitution cipher which shifts each letter in a message by a given number. Supports both encryption and decryption, handles upper and lower case separately, and leaves numbers and symbols untouched.
 
@@ -29,7 +29,7 @@ python caesar_cipher.py
 
 ---
 
-### Task 02 — Image Encryption (Pixel Manipulation)
+### Task 02-Image Encryption (Pixel Manipulation)
 
 Encrypts any image by XOR-ing every pixel's RGB channels with a key value you provide. Since XOR is reversible, running the same script on the encrypted image with the same key gives you back the original. Works with `.png`, `.jpg`, and most common formats.
 
@@ -45,7 +45,7 @@ python image_encrypt.py
 
 ---
 
-### Task 03 — Password Complexity Checker
+### Task 03-Password Complexity Checker
 
 Takes a password as input (hidden from terminal) and rates its strength across six criteria i.e. length, uppercase, lowercase, digits, special characters, and a bonus for passwords over 16 characters. Prints a strength label and tells you exactly what's missing.
 
@@ -56,7 +56,7 @@ python password_checker.py
 
 ---
 
-### Task 04 — Keylogger
+### Task 04-Keylogger
 
 Records keystrokes and saves them to a log file with session timestamps. Buffers every 20 keys before writing so nothing gets lost if the process exits unexpectedly. Press `ESC` to stop the logger cleanly.
 
